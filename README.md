@@ -1,3 +1,4 @@
+# Leishmania Parasite Detection
 
 ## **Abstract**
 
@@ -31,11 +32,11 @@ In this study, while both models were capable of detecting parasites, the RCNN m
 | yolov8l     | 0.35519  |
 | faster-rcnn | 0.9      |
 
-yolov10n Results: 
+### yolov10n Results: 
 ![](Img/image_v10.png)
 
-yolov5n Results:
+### yolov5n Results:
 ![](Img/image_v5.png)
 
-yolov8l Results:
+### yolov8l Results:
 ![](Img/image_v8.png)
