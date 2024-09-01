@@ -30,7 +30,7 @@ In this study, while both models were capable of detecting parasites, the RCNN m
 | yolov10n    | 0.24476  |
 | yolov5n     | 0.24488  |
 | yolov8l     | 0.35519  |
-| faster-rcnn | 0.9      |
+| faster-rcnn |  0.8928  |
 
 ### yolov10n Results: 
 ![](Img/image_v10.png)
@@ -40,3 +40,6 @@ In this study, while both models were capable of detecting parasites, the RCNN m
 
 ### yolov8l Results:
 ![](Img/image_v8.png)
+
+### faster-Rcnn Results:
+![](Img/image.png)
